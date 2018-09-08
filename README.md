@@ -1,2 +1,1 @@
-# exemplesjava
-Premier test, exemples java
+# Quelques tests
